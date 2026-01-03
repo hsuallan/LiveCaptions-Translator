@@ -3,7 +3,7 @@ using System.Windows;
 using Microsoft.Win32;
 using Wpf.Ui.Controls;
 using Wpf.Ui.Appearance;
-
+using System.Diagnostics;
 using LiveCaptionsTranslator.utils;
 using LiveCaptionsTranslator.models;
 
